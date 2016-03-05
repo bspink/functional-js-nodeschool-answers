@@ -1,0 +1,16 @@
+{
+  "name": "bspink-fjq5",
+  "version": "1.0.0",
+  "description": "nodeschool functional javascript q5",
+  "main": "spy.js",
+  "scripts": {
+    "test": "./node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "bradley dot spink at gmail dot com",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
