@@ -1,3 +1,5 @@
+'use strict'
+
 var getDependencies = require('../lib/dependencies')
 
 describe('get dependencies', function () {

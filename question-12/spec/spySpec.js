@@ -1,4 +1,4 @@
-'use script'
+'use strict'
 
 var Spy = require('../lib/spy')
 
